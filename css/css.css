@@ -28,16 +28,17 @@
     text-align: center;
     font-size: 40px;
   }
-  .orderbutton{
-    color:#ffffff;
-    font-family: "Times New Roman";
-    text-align: center;
-    font-size: 40px;
-}
+  
 .frontBakery{
     height: 100%;
     width: 150%;
 }
 .py-5{
     padding-top: 20px;
+}
+.orderbutton{
+  color: #ffffff;
+  font-family: "Times New Roman";
+    text-align: center;
+    font-size: 40px;
 }
