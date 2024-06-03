@@ -107,7 +107,21 @@ body {
   background-color: #aaa;
   width: 348px;
   height: 348px;
-  
+}
+
+.cart-total {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  background-color: #f8f9fa;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+  width: fit-content;
+  margin: 20px auto;
+}
+
   
 
 
