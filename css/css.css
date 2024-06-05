@@ -42,13 +42,8 @@
     text-align: center;
     font-size: 40px;
 }
-{
-  box-sizing: border-box;
-}
-
 body {
-  font-family: Arial;
-  padding: 10px;
+  font-family: 'Times New Roman', Times, serif;
   background: #f1f1f1;
 }
 
@@ -122,10 +117,6 @@ body {
   margin: 20px auto;
 }
 
-  
-
-
-}
 
 /* Add a card effect for articles */
 .card {
@@ -170,8 +161,6 @@ body {
     text-align: center;
     font-size: 70px;
 }
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 400 to 900
 body{
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
